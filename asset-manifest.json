@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.5796cc09.js",
-    "index.html": "/index.html",
-    "main.5796cc09.js.map": "/static/js/main.5796cc09.js.map"
+    "main.js": "/rody_wedding/static/js/main.1e0edaed.js",
+    "index.html": "/rody_wedding/index.html",
+    "main.1e0edaed.js.map": "/rody_wedding/static/js/main.1e0edaed.js.map"
   },
   "entrypoints": [
-    "static/js/main.5796cc09.js"
+    "static/js/main.1e0edaed.js"
   ]
 }
