@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rody_wedding/static/js/main.b31be23b.js",
+    "main.js": "/rody_wedding/static/js/main.3b323f5e.js",
     "index.html": "/rody_wedding/index.html",
-    "main.b31be23b.js.map": "/rody_wedding/static/js/main.b31be23b.js.map"
+    "main.3b323f5e.js.map": "/rody_wedding/static/js/main.3b323f5e.js.map"
   },
   "entrypoints": [
-    "static/js/main.b31be23b.js"
+    "static/js/main.3b323f5e.js"
   ]
 }
